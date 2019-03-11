@@ -10,12 +10,6 @@
             "email": "meertensmichiel28@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/deepasg/amazon-mws"
-        }
-    ],
     "require": {
         "php": ">= 5.4",
         "guzzlehttp/guzzle": "~6.0",
